@@ -3,4 +3,4 @@ all:
 
 .PHONY: clean
 clean:
-	rm iicmaster
+	rm -f iicmaster
